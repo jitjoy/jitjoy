@@ -1,4 +1,4 @@
-![logo](https://github.com/jitjoy/my_files/blob/main/jjittu%20joy.jpg)
+<img src="https://github.com/jitjoy/my_files/blob/main/jjittu%20joy.jpg" alt="logo" width="100%" />
 <h1 align="center">Hi 👋, I'm Jittu Joy</h1>
 <h4 align="center">I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
