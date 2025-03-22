@@ -1,13 +1,14 @@
-- 👋 Hi, I’m  JITTU JOY
-  
- - 👀 I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights.
-  I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud.
-  I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
-- 💬 LinkedIn https://www.linkedin.com/in/jittu-joy-53444a215/
-- 😄 Pronouns: she/her
+![logo](https://www.canva.com/design/DAGideTmaDg/_bjl5FvxTVu_oWGmCspw6Q/edit)
+<h1 align="center">Hi 👋, I'm Jittu Joy</h1>
+<h4 align="center">I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/similarweb-data-data-nerds-research-marketing-gif-26761530">
 
 
-<!---
-jitjoy/jitjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m a **Data Engineer**
+
+
+- 💬 LinkedIn **https://www.linkedin.com/in/jittu-joy-53444a215/**
+
+
+
